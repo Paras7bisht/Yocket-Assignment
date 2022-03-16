@@ -1,0 +1,4 @@
+Ques 1) The main issue that i can think of for this case is related to session. A reason can be due to some session issue a single user might be logging in again and again hence using the sms service multiple times. Second issue can be the OTP functionality might not be working properly so the OTP doesnt match with the entered number, making user resend the OTP multiple times.
+
+Ques2) We can use regex to block the videos with name related to spider-man.
+
